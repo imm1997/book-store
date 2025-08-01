@@ -71,9 +71,9 @@ const Navbar = () => {
                     <button className="hidden sm:block">
                         <FaHeart className="size-6"/>
                     </button>
-
+                        
                     <Link to="/cart" className="bg-[#FFCE1A] p-1 sm:px-6 px-2 flex items-center rounded-sm">
-                        <FaShoppingBag className="size-6"/>
+                        <FaShoppingBag className="size-6"/> 
                         <span className="text-sm font-bold sm:ml-1">0</span>
                     </Link>
                 </div>
